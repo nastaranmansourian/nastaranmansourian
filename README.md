@@ -10,8 +10,8 @@ My research focuses on machine learning and signal processing, with applications
 - Biomedical Signal Processing
 - ECG & EEG Analysis
 - Affective Computing
-- Physics-Informed Machine Learning
-- Fault Detection & Virtual Sensing
+- Domain Generalization
+
 
 
 ## Connect
